@@ -13,7 +13,7 @@ I thrive on solving complex problems and creating efficient, scalable solutions.
   - **Master of Science in Computer Software Engineering** from San Jose State University (Aug 2022 - May 2024)
   - **Bachelor of Technology in Computer Science Engineering** from Gayatri Vidya Parishad College Of Engineering (July 2017 - May 2021)
 - 🌱 **Learning:** Advanced machine learning algorithms, cloud infrastructure management
-- 💬 **Ask me about:** Software engineering, cloud solutions, MIPS processor emulation
+- 💬 **Ask me about:** Software engineering, cloud solutions
 
 ---
 
