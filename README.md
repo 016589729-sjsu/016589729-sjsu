@@ -1,4 +1,4 @@
-# Hello, I'm Irfan Ameer Shaik! 👋
+# Hello, I'm Irfan! 👋
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer with a Master's degree in Computer Software Engineering from San Jose State University. My interests span across various domains in software development, including cloud computing, DevOps, and machine learning.
 
